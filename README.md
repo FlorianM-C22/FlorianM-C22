@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **florian.meignan@gmail.com**
 
-- ⚡ Fun fact **I own an esports team !**
+- ⚡ Fun fact **[I own an esports team !](https://adepts-org.eu/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
