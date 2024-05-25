@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [My portfolio project, Homie](https://github.com/FlorianM-C22/homie)
 
-- 🌱 I’m currently learning **Full-Stack Development @Holberton School Laval**
+- 🌱 I’m learning **Full-Stack Development @Holberton School Laval**
 
 - 📫 How to reach me **florian.meignan@gmail.com**
 
