@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Florian Meignan</h1>
-<h3 align="center">A soon to be Full-Stack Developer from France 🇫🇷</h3>
+<h3 align="center">Junior Full-Stack Developer from France 🇫🇷</h3>
 
 # 💫 About Me:
-Internship @ShortwaysSAS<br>Reach me at florian.meignan@gmail.com
+Currently intern @ShortwaysSAS<br>Reach me at florian.meignan@gmail.com
 
 
 ## 🌐 Socials:
