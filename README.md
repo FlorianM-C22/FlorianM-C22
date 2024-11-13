@@ -2,7 +2,7 @@
 <h3 align="center">Junior Full-Stack Developer from France 🇫🇷</h3>
 
 # 💫 About Me:
-Junior @ShortwaysSAS<br>Reach me at florian.meignan@gmail.com
+Working @ShortwaysSAS<br>Reach me at florian.meignan@gmail.com
 
 
 ## 🌐 Socials:
