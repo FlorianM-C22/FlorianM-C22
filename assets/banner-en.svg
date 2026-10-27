@@ -1,0 +1,43 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Buddy - Stay in the moment.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#120C24"/>
+      <stop offset="0.6" stop-color="#1B1333"/>
+      <stop offset="1" stop-color="#3E2C6E"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="22%" cy="85%" r="60%">
+      <stop offset="0" stop-color="#FF5A3C" stop-opacity="0.45"/>
+      <stop offset="0.5" stop-color="#FF2E78" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#FF2E78" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="dot" cx="42%" cy="36%" r="70%">
+      <stop offset="0" stop-color="#FF8A5C"/>
+      <stop offset="1" stop-color="#FF2E78"/>
+    </radialGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFB020"/>
+      <stop offset="1" stop-color="#FF2E78"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .arc { stroke-width: 6.5; stroke-linecap: round; fill: none; }
+    .a1 { animation: pulse 3.2s ease-in-out infinite; }
+    .a2 { animation: pulse 3.2s ease-in-out 0.25s infinite; }
+    .a3 { animation: pulse 3.2s ease-in-out 0.5s infinite; }
+    @keyframes pulse { 0%,100% { opacity: .25 } 50% { opacity: 1 } }
+    .title { font: 800 74px 'Bricolage Grotesque','Segoe UI','Trebuchet MS',Arial,sans-serif; fill: #FFF6E6; letter-spacing: -1px; }
+    .tag { font: 600 30px 'Plus Jakarta Sans','Segoe UI',Arial,sans-serif; fill: url(#txt); }
+    .sub { font: 500 18px 'Space Mono',Consolas,'Courier New',monospace; fill: #C7BCE6; }
+  </style>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#glow)"/>
+  <g transform="translate(70 55) scale(1.9)">
+    <path class="arc a1" d="M10 60 A 40 40 0 0 1 90 60" stroke="#FF2E78"/>
+    <path class="arc a2" d="M22 60 A 28 28 0 0 1 78 60" stroke="#FF5A3C"/>
+    <path class="arc a3" d="M34 60 A 16 16 0 0 1 66 60" stroke="#FFB020"/>
+    <circle cx="50" cy="60" r="8.5" fill="url(#dot)"/>
+  </g>
+  <text class="title" x="320" y="135">Buddy</text>
+  <text class="tag" x="322" y="185">Stay in the moment.</text>
+  <text class="sub" x="322" y="230">// your digital swiss army knife for festivals</text>
+</svg>
