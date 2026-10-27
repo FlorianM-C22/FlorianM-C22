@@ -21,9 +21,9 @@
   </defs>
   <style>
     .arc { stroke-width: 6.5; stroke-linecap: round; fill: none; }
-    .a1 { animation: pulse 3.2s ease-in-out infinite; }
+    .a1 { animation: pulse 3.2s ease-in-out 0.5s infinite; }
     .a2 { animation: pulse 3.2s ease-in-out 0.25s infinite; }
-    .a3 { animation: pulse 3.2s ease-in-out 0.5s infinite; }
+    .a3 { animation: pulse 3.2s ease-in-out infinite; }
     @keyframes pulse { 0%,100% { opacity: .25 } 50% { opacity: 1 } }
     .title { font: 800 74px 'Bricolage Grotesque','Segoe UI','Trebuchet MS',Arial,sans-serif; fill: #FFF6E6; letter-spacing: -1px; }
     .tag { font: 600 30px 'Plus Jakarta Sans','Segoe UI',Arial,sans-serif; fill: url(#txt); }
